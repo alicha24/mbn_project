@@ -1,0 +1,16 @@
+{
+  "name": "node-js-server",
+  "version": "1.0.0",
+  "description": "First line of node Js code",
+  "main": "App.js",
+  "scripts": {
+    "start": "nodemon App.js"
+  },
+  "author": "Mounit el berouli",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "joi": "^17.3.0"
+  }
+}
